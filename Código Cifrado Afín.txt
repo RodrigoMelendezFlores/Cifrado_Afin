@@ -60,7 +60,7 @@ int main() {
     cin >> b;
     if(n<0){existencia=0;}  
     else if((a<0)&& (b<0)) {existencia=0;}
-    else if(b>27){existencia=0;}
+    else if(b>=27){existencia=0;}
     else{existencia=inverso(a,n);}
     if(existencia!=0){
   while(true){
