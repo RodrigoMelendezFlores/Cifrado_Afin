@@ -16,3 +16,8 @@ Seguidamente, desde el menú podemos seleccionar diversas opciones:
 - 3. Ingresar una clave distinta.
 - 4. Descifrar la frase "SLBCMVRBSHZBT~NSRQVVMSZBVH~NBVRQVLALHZBT~NSRQVWQAXLZW~NAQFQV" (prueba descifrando la frase con todas las claves posibles en el cifrado afín, finalmente encontrando una frase leíble y en español, la cual es "NOEXISTENPREGUNTASSINRESPUESTASOLOPREGUNTASMALFORMULADAS".
 - 0. Finalizar el programa.
+
+
+Ejemplos de uso:
+Ingresando la clave 4, 7 podemos cifrar la frase "ELEMENTALMIQUERIDOWATSON" dando como resultado: "WXWBWFGHXBMUKWYMSNRHGCNF".
+Con la misma clave también podemos descifrar la frase: "OKHFSNKFNWFCWJHSNCHQYWFSWF" la cual es: "CUANDOUNOENSE#ADOSAPRENDEN".
